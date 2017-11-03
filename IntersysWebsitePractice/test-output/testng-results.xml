@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43630" started-at="2017-11-03T19:15:36Z" finished-at="2017-11-03T19:16:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43630" started-at="2017-11-03T19:15:36Z" finished-at="2017-11-03T19:16:19Z">
+      <class name="testCases.SearchingTextTestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.SearchingTextTestCase@1efea79]" name="setup" is-config="true" duration-ms="34399" started-at="2017-11-03T13:15:36Z" finished-at="2017-11-03T13:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:testCases.SearchingTextTestCase@1efea79]" name="invalidLogin" duration-ms="9114" started-at="2017-11-03T13:16:10Z" finished-at="2017-11-03T13:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testCases.SearchingTextTestCase@1efea79]" name="close" is-config="true" duration-ms="95" started-at="2017-11-03T13:16:19Z" finished-at="2017-11-03T13:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.SearchingTextTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
